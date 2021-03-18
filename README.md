@@ -1,7 +1,7 @@
 # Apple size estimation using photogrammetry-derived 3D point clouds
 
 ## Introduction
-This project is a matlab implementation for apple size estimation in 3D point clouds. Four different size estimation methods are implemented: largest segment, least squares, MSAC and template matching. This code was used in [1] to compare the performance of the mentioned methods by using the [PFuji-Size dataset](http://www.grap.udl.cat/en/publications/ PFuji-Size _dataset.html) (not publicly available yet). Find more information in:
+This project is a matlab implementation for apple size estimation in 3D point clouds. Four different size estimation methods are implemented: largest segment, least squares, MSAC and template matching. This code was used in [1] to compare the performance of the mentioned methods by using the [PFuji-Size dataset](http://www.grap.udl.cat/en/publications/PFuji-Size_dataset.html) (not publicly available yet). Find more information in:
 * [In-field apple size estimation using photogrammetry-derived 3D point clouds: comparison of 4 different methods considering fruit occlusions [1]](http://www.grap.udl.cat/en/publications/index.html) (submitted, not publicly available yet).
 
 ## Preparation 
