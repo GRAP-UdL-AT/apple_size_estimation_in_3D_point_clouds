@@ -43,10 +43,18 @@ Please contact authors to report bugs @ jordi.genemola@udl.cat
 
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
 
-    @article{Gené-Mola2020,
+    @article{Gené-Mola2021a,
         Author = {{Gen{\'e}-Mola, Jordi and Sanz-Cortiella, Ricardo and Rosell-Polo, Joan R and Escol{\`a}, Alexandre and Gregorio, Eduard },
         Title = {In-field apple size estimation using photogrammetry-derived 3D point clouds: comparison of 4 different methods considering fruit occlusions},
-        Journal = {Submitted},
-        Year = {2020}
-        doi = {https://doi.org/Submitted}
+        Journal = {Computers and Electronics in Agriculture},
+        Year = {2021}
+        doi = {https://doi.org/10.1016/j.compag.2021.106343}
+    }
+    
+    @article{Gené-Mola2021b,
+        Author = {{Gen{\'e}-Mola, Jordi and Sanz-Cortiella, Ricardo and Rosell-Polo, Joan R and Escol{\`a}, Alexandre and Gregorio, Eduard },
+        Title = {PFuji-Size dataset: A collection of images and photogrammetry-derived 3D point clouds with ground truth annotations for Fuji apple detection and size estimation in field conditions},
+        Journal = {Data in Brief},
+        Year = {2021}
+        doi = {https://doi.org/10.1016/j.dib.2021.107629}
     }
