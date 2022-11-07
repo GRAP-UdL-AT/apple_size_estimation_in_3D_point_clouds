@@ -25,7 +25,7 @@ git clone https://github.com/GRAP-UdL-AT/apple_size_estimation_in_3D_point_cloud
 
 ### Data Preparation
 
-Inside the “new_project” folder, save the dataset folder “PFuji-Size_dataset” available at [PFuji-Size dataset](http://www.grap.udl.cat/en/publications/PFuji-Size_dataset.html). (not publicly available yet. It will be made publicly available after the corresponding publication acceptance)
+Inside the “new_project” folder, save the dataset folder “PFuji-Size_dataset” available at [PFuji-Size dataset](https://www.grap.udl.cat/en/publications/apple_size_estimation_SfM/). (not publicly available yet. It will be made publicly available after the corresponding publication acceptance)
 
 ### Launch the code
 
